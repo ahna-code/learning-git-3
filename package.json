@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ahna-code/learning-git-3#readme",
   "devDependencies": {
-    "autoprefixer-cli": "^1.0.0"
+    "autoprefixer-cli": "^1.0.0",
+    "nu-html-checker": "^0.1.0"
   }
 }
