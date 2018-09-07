@@ -1,7 +1,7 @@
 Usage:
-autoprefixer-cli -o style.css. style.prefixed.css
+node-modules/.bin/autoprefixer-cli style.prefixed.css css/*.css
 
 
 Usage:
-var checker = require('nu-html-checker')
+node-modules/.bin/nu-html-checker *.html
 
